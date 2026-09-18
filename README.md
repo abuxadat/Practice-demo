@@ -1,3 +1,3 @@
 # Practice-demo
-This repo is for practice
+This repo is for practice.
 Author - Sayem
